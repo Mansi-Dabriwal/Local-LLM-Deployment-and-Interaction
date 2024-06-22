@@ -12,3 +12,5 @@ This repository contains instructions and scripts for setting up and comparing O
 
 1. Install Ollama by following the instructions at [[https://ollama.ai/](https://ollama.ai/)]
 2. Run the setup scripts for each model:
+
+[[YouTube Link](https://www.youtube.com/watch?v=3K_wJjrc66M)]
