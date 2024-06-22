@@ -1,0 +1,11 @@
+llama3 model:
+
+curl http://localhost:11434/api/generate -d '{"model": "llama3", "prompt": "Explain the theory of relativity.", "stream": false}'
+
+curl http://localhost:11434/api/generate -d '{"model": "llama3", "prompt": "Describe the process of photosynthesis.", "stream": false}'
+
+gemma:2b model:
+
+curl http://localhost:11434/api/generate -d '{"model": "gemma:2b", "prompt": "Explain the theory of relativity", "stream": false}'
+
+curl http://localhost:11434/api/generate -d '{"model": "gemma:2b", "prompt": "Describe the process of photosynthesis.", "stream": false}'
