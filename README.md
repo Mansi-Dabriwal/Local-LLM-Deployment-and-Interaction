@@ -1,4 +1,4 @@
-# LLaMA and Gemma 2b Model Setup and Comparison
+# LLaMA3 and Gemma 2b Model Setup and Comparison
 
 This repository contains instructions and scripts for setting up and comparing OpenAI's LLaMA and Gemma 2b language models.
 
