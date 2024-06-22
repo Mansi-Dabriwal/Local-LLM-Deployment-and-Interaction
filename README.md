@@ -33,11 +33,9 @@ Make sure you have sufficient disk space and a good internet connection, as thes
 OR 
 
 1. Downloading LLaMA (https://github.com/ollama/ollama) and installation via terminal (ollama run llama3)
-2. Interacting with the LLaMA 3 model using curl command:
-curl http://localhost:11434/api/generate -d '{"model": "llama3", "prompt": "Explain the theory of relativity.", "stream": false}'
+2. Interacting with the LLaMA 3 model using curl command (curl_command file)
 3. Installing Gemma 2b (ollama run gemma:2b)
-4. Interacting with the Gemma 2b model using curl command:
-curl http://localhost:11434/api/generate -d '{"model": "gemma:2b", "prompt": "Explain the theory of relativity", "stream": false}'
+4. Interacting with the Gemma 2b model using curl command (curl_command file)
 5. Comparison of LLaMA 3 and Gemma 2b models
 
 Follow the steps in the YouTube video:
