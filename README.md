@@ -30,4 +30,8 @@ You can interact with each model using curl commands. Examples are provided in t
 
 Make sure you have sufficient disk space and a good internet connection, as these models can be quite large.
 
+OR 
+
+Follow the steps in the YouTube video:
+
 [[YouTube Link](https://www.youtube.com/watch?v=3K_wJjrc66M)]
